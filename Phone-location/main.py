@@ -3,7 +3,7 @@ import requests
 
 app=Flask(__name__)
 
-key="ee1901bf9db24e21aa9736f2eae10654"
+key="" # use your own api key 
 
 @app.route('/',methods=['GET','POST'])
 def home():
