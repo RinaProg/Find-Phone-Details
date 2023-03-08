@@ -23,4 +23,4 @@
    | News 	      | `string` 	   | **Required**     |https://numverify.com/|
    
 ## CEREDITS:
-    NumVerify API-This project could never have been possible without this api. It saved my  time while built this api                project.
+    NumVerify API-This project could never have been possible without this api. It saved my  time while built this api           project.
