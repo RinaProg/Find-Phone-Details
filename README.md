@@ -1,4 +1,4 @@
-# Find-Phone-Details
+# Find-Phone-Details 📱
   
 ## OVERVIEW:
    A web application is built using Python framework (Flask) and numverify API.This apllication helps to verify your phone          number and show the valid details.
@@ -10,8 +10,8 @@
    + STEP-2:Click the sign up for free section.
    + STEP-3:Subscribe the Number Verificatin Api for free.
    + STEP-4:Now sign in the page and get your own api key.
-   + STEP-5:Run main.py file and the project will be launched.
-   + Enjoyed it.
+   + STEP-5:Run main.py file and the project will be 🚀
+   + Enjoyed it 🥳 
 
 
 ## TECHNOLOGY USED:
@@ -30,4 +30,4 @@
    | News 	      | `string` 	   | **Required**     |https://numverify.com/|
    
 ## CEREDITS:
-   NumVerify API-This project could never have been possible without this api. It saved my time while built this api        project.
+   NumVerify API-This project could never have been possible without this api. It saved my time while built this api        project 👍🏼
