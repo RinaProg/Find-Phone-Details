@@ -29,5 +29,5 @@
    | :--------    | :------- 	   | :--------------- |:---------------      |
    | News 	      | `string` 	   | **Required**     |https://numverify.com/|
    
-## CEREDITS:
+## CREDITS:
    NumVerify API-This project could never have been possible without this api. It saved my time while built this api        project 👍🏼
