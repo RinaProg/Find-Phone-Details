@@ -6,6 +6,13 @@
    <P align="center"><img src="https://user-images.githubusercontent.com/122221586/223654976-0c625bc5-02c7-49b9-a009-09deafdc81af.png" width="500" height="400">
 
 ## STEPS TO RUN:
+   + STEP-1:Go To https://https://numverify.com.
+   + STEP-2:Click the sign up for free section.
+   + STEP-3:Subscribe the Number Verificatin Api for free.
+   + STEP-4:Now sign in the page and get your own api key.
+   + STEP-5:Run main.py file and the project will be launched.
+   + Enjoyed it.
+
 
 ## TECHNOLOGY USED:
     Python 3.9.8
@@ -23,4 +30,4 @@
    | News 	      | `string` 	   | **Required**     |https://numverify.com/|
    
 ## CEREDITS:
-    NumVerify API-This project could never have been possible without this api. It saved my  time while built this api           project.
+   NumVerify API-This project could never have been possible without this api. It saved my time while built this api        project.
