@@ -5,7 +5,7 @@
 ## OUTPUT:
    <P align="center"><img src="https://user-images.githubusercontent.com/122221586/223654976-0c625bc5-02c7-49b9-a009-09deafdc81af.png" width="500" height="400">
 
-## STEPS TO RUN:
+## STEPS TO RUN:🏃‍♀️
    + STEP-1:Go To https://https://numverify.com.
    + STEP-2:Click the sign up for free section.
    + STEP-3:Subscribe the Number Verificatin Api for free.
@@ -18,7 +18,7 @@
     Python 3.9.8
     Flask 2.2.2
 
-## TOOLS:
+## TOOLS: 🛠
    <p><img src="https://user-images.githubusercontent.com/125151906/220073302-61e5bb1b-d55e-453f-9c1e-3cd0bd64e4f2.png" width="70" height="70">&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpngGRjYX1ca7qAADU3K6eGLj7ShQE3L2otdzfryl_Y9Ht2QRoQKYQbsXd36XIxMbYOw0&usqp=CAU" width="70" height="70">&nbsp;&nbsp;
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRihXU8PH96OIWZ9RrD1-alJOeIOuv4yc2jH6CLmHyCJuuxg6vK-Xn05tXIrN4g0YhVM7U&usqp=CAU" width="70" height="70">&nbsp;&nbsp;</p>
