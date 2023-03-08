@@ -3,7 +3,7 @@
 ## OVERVIEW:
    A web application is built using Python framework (Flask) and numverify API.This apllication helps to verify your phone          number and show the valid details.
 ## OUTPUT:
-   <P><img src="https://user-images.githubusercontent.com/122221586/223654976-0c625bc5-02c7-49b9-a009-09deafdc81af.png" width="450" height="300">
+   <P align="center"><img src="https://user-images.githubusercontent.com/122221586/223654976-0c625bc5-02c7-49b9-a009-09deafdc81af.png" width="500" height="400">
 
 ## STEPS TO RUN:
 
@@ -23,4 +23,4 @@
    | News 	      | `string` 	   | **Required**     |https://numverify.com/|
    
 ## CEREDITS:
-
+    NumVerify API-This project could never have been possible without this api. It saved my  time while built this api         project.
